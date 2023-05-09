@@ -1,0 +1,2 @@
+linea del segundo archivo creado para la practica de git
+linea que realizara un cambio en el archivo
